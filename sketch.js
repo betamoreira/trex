@@ -128,7 +128,7 @@ function draw(){
     grupodenuvens.setVelocityXEach(0);
     
     if(mousePressedOver(reiniciarjogo)){
-    //reset();
+    reset();
   }
 }
   
