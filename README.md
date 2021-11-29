@@ -1,2 +1,1 @@
-# trex
-Jogo do trex.
+# PRO-C18-Solucao
